@@ -1,0 +1,24 @@
+--cpu Cortex-M3
+"nhietdo\startup_stm32f103xb.o"
+"nhietdo\main.o"
+"nhietdo\stm32f1xx_it.o"
+"nhietdo\stm32f1xx_hal_msp.o"
+"nhietdo\stm32f1xx_hal_gpio_ex.o"
+"nhietdo\stm32f1xx_hal_i2c.o"
+"nhietdo\stm32f1xx_hal.o"
+"nhietdo\stm32f1xx_hal_rcc.o"
+"nhietdo\stm32f1xx_hal_rcc_ex.o"
+"nhietdo\stm32f1xx_hal_gpio.o"
+"nhietdo\stm32f1xx_hal_dma.o"
+"nhietdo\stm32f1xx_hal_cortex.o"
+"nhietdo\stm32f1xx_hal_pwr.o"
+"nhietdo\stm32f1xx_hal_flash.o"
+"nhietdo\stm32f1xx_hal_flash_ex.o"
+"nhietdo\stm32f1xx_hal_exti.o"
+"nhietdo\stm32f1xx_hal_tim.o"
+"nhietdo\stm32f1xx_hal_tim_ex.o"
+"nhietdo\system_stm32f1xx.o"
+--library_type=microlib --strict --scatter "nhietdo\nhietdo.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "nhietdo.map" -o nhietdo\nhietdo.axf

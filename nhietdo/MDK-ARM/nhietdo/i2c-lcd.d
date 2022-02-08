@@ -1,0 +1,30 @@
+nhietdo\i2c-lcd.o: ..\LCD\i2c-lcd.c
+nhietdo\i2c-lcd.o: ..\LCD\i2c-lcd.h
+nhietdo\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+nhietdo\i2c-lcd.o: ../Core/Inc/stm32f1xx_hal_conf.h
+nhietdo\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+nhietdo\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+nhietdo\i2c-lcd.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+nhietdo\i2c-lcd.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+nhietdo\i2c-lcd.o: ../Drivers/CMSIS/Include/core_cm3.h
+nhietdo\i2c-lcd.o: C:\Program Files\KeilC\ARM\ARMCC\Bin\..\include\stdint.h
+nhietdo\i2c-lcd.o: ../Drivers/CMSIS/Include/cmsis_version.h
+nhietdo\i2c-lcd.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+nhietdo\i2c-lcd.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+nhietdo\i2c-lcd.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+nhietdo\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+nhietdo\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+nhietdo\i2c-lcd.o: C:\Program Files\KeilC\ARM\ARMCC\Bin\..\include\stddef.h
+nhietdo\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+nhietdo\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+nhietdo\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+nhietdo\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+nhietdo\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+nhietdo\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+nhietdo\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+nhietdo\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+nhietdo\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+nhietdo\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h
+nhietdo\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+nhietdo\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+nhietdo\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
